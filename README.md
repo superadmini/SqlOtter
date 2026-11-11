@@ -21,6 +21,7 @@ The guides below explain a small task using synthetic data. If you already have 
 | --- | --- |
 | Query a small synthetic dataset and inspect the result | [A focused first database task](first-task.md) |
 | Find loaded values using highlights and match markers | [Find a value without losing the table context](find-loaded-values.md) |
+| Distinguish same-named tables in PostgreSQL schemas | [Find the right PostgreSQL table](postgresql-table-schemas.md) |
 
 ## Small details that help daily work
 
