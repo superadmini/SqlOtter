@@ -6,7 +6,7 @@ SqlOtter is a desktop database workspace for writing SQL, exploring tables, and 
 
 This is the public product and feedback repository.
 
-**Launch status:** the public website, installer downloads and account service are being prepared. This repository currently provides a product preview and workflow guides. Public installation and trial instructions will be added when those services are available.
+**Website preview:** Visit the [SqlOtter website](https://www.sqlotter.com/) for the current product overview. This repository provides product information and workflow guides; it does not include an installer. Installation and trial guidance will be added with a verified public release.
 
 ## Start with a real task
 
@@ -54,7 +54,7 @@ Choose a download that is actually offered for your platform; the presence of a 
 ## Feedback and support
 
 - [Report a bug or suggest a workflow improvement](https://github.com/superadmini/SqlOtter/issues).
-- Public account and policy pages will be linked when the website is deployed. Keep account, purchase and confidential questions out of public issues.
+- This repository is not an account or billing support channel. Keep account, purchase and confidential questions out of public issues.
 
 Useful feedback includes your OS/architecture, app version/build, database engine/version, intended task, and the step that blocked you. Public issues must not contain credentials, database connection strings, customer records, or payment information. A sanitized example is enough.
 
